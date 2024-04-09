@@ -14,18 +14,9 @@ Using the print function, display the distance between the two points.
 ### Step 5: 
 End the program.
 ### PROGRAM:
-```
-#Program to find distance between two points.
-#Developed by : DURGADEVI P
-#Register no : 212223100006
-import math 
-l1 = [4,2]
-l2 = [10,6]
-d = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
-print("{:.2f}".format(d))
-```
+
 ### OUTPUT:
-![image](https://github.com/durgadevi22d/DISTANCE-BETWEEN-TWO-POINTS/assets/149987216/5d6ff50a-a2d9-4351-a118-f81f20483b13)
+
 
 
 
