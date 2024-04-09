@@ -14,10 +14,10 @@ Using the print function, display the distance between the two points.
 ### Step 5: 
 End the program.
 ### PROGRAM:
+## Program to find distance between two points.
+## Developed by : DURGADEVI P
+## Register no : 212223100006
 ```
-#Program to find distance between two points.
-#Developed by : DURGADEVI P
-#Register no : 212223100006
 import math 
 l1 = [4,2]
 l2 = [10,6]
